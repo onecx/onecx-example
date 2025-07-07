@@ -1,2 +1,2 @@
 # onecx-example
-OneCx example
+OneCx Example

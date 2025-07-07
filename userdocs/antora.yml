@@ -1,0 +1,7 @@
+name: onecx-example
+title: OneCX Example
+version: latest
+start_page: general:index.adoc
+nav:
+ - modules/general/nav.adoc
+ - modules/ui/nav.adoc
