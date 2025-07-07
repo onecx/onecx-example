@@ -1,0 +1,12 @@
+dependencies:
+- name: helm-product
+  repository: oci://ghcr.io/onecx/charts
+  version: 0.3.0
+- name: onecx-example-custom-auth-bff
+  repository: oci://ghcr.io/onecx/charts
+  version: 0.0.0-rc.2
+- name: onecx-example-custom-auth-ui
+  repository: oci://ghcr.io/onecx/charts
+  version: 0.0.0-rc.3
+digest: sha256:27c1328ec22dcd10977f66df57e1a57b44d0a6069b5726064f5d2eb30b7d3fda
+generated: "2025-07-07T12:04:33.734667688Z"
