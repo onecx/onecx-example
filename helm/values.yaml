@@ -1,0 +1,11 @@
+deployment:
+  ui: true
+  bff: true
+product:
+  info:
+    data:
+      description: "OneCX Example"
+      imageUrl: ""
+      iconName: "id-card"
+      displayName: "OneCX Example"
+      basePath: "/example"
