@@ -4,9 +4,9 @@ dependencies:
   version: 0.3.0
 - name: onecx-example-custom-auth-bff
   repository: oci://ghcr.io/onecx/charts
-  version: 0.0.0-rc.11
+  version: 0.0.0-rc.12
 - name: onecx-example-custom-auth-ui
   repository: oci://ghcr.io/onecx/charts
   version: 0.0.0-rc.3
-digest: sha256:33110b1d4828966ca9284ecc09711f64595e7ba012071a4d0ca81f8e3e8447dd
-generated: "2025-08-11T13:31:45.82176632Z"
+digest: sha256:e87627fb7f4deb5187f96e1b5f1287ba8be4413bbb5b9cc70715a4ca0df88917
+generated: "2025-08-20T13:10:49.605054282Z"
