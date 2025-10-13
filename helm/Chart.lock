@@ -7,6 +7,6 @@ dependencies:
   version: 0.0.0-rc.12
 - name: onecx-example-custom-auth-ui
   repository: oci://ghcr.io/onecx/charts
-  version: 0.0.0-rc.5
-digest: sha256:1eee510b0031cf133a4cd0436e91dd9f8d9dd0a587221160d945627dcce761de
-generated: "2025-09-26T06:44:09.629452461Z"
+  version: 0.0.0-rc.6
+digest: sha256:25897c2fd1b03e065b8e14c25c72dc7426543f36e9173161aabcb15302295a02
+generated: "2025-10-13T07:01:10.83325005Z"
